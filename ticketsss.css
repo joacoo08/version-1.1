@@ -1,0 +1,51 @@
+#contenido{
+    margin: auto;
+    margin-top: 80px;
+    width: 300px;
+    
+}
+#titulo{
+    color: rgb(13, 13, 14);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#question1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#question2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#question3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}   
+ #question4 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto; 
+    margin-right: auto;
+}
+    
+#question5 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;    
+    margin-right: auto;
+}
+
+#finalizar{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;    
+    margin-right: auto;
+}
